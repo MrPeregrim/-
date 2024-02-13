@@ -11,8 +11,8 @@ html {
 @font-face {
   font-family: "Montserrat";
   src: local("Montserrat-Regular"),
-  url("../font/Montserrat-Regular.woff2") format("woff2"),
-  url("../font/Montserrat-Regular.woff") format("woff");
+  url("/Euclid/font/Montserrat-Regular.woff2") format("woff2"),
+  url("/Euclid/font/Montserrat-Regular.woff") format("woff");
   font-weight: 400;
   font-style: normal;
   font-display:swap;
@@ -21,8 +21,8 @@ html {
 @font-face {
   font-family: "Montserrat";
   src: local("Montserrat-SemiBold"),
-  url("../font/Montserrat-SemiBold.woff2") format("woff2"),
-  url("../font/Montserrat-SemiBold.woff") format("woff");
+  url("/Euclid/font/Montserrat-SemiBold.woff2") format("woff2"),
+  url("/Euclid/font/Montserrat-SemiBold.woff") format("woff");
   font-weight: 600;
   font-style: normal;
   font-display:swap;
@@ -31,8 +31,8 @@ html {
 @font-face {
   font-family: "Montserrat";
   src: local("Montserrat-ExtraBold"),
-  url("../font/Montserrat-ExtraBold.woff2") format("woff2"),
-  url("../font/Montserrat-ExtraBold.woff") format("woff");
+  url("/Euclid/font/Montserrat-ExtraBold.woff2") format("woff2"),
+  url("/Euclid/font/Montserrat-ExtraBold.woff") format("woff");
   font-weight: 800;
   font-style: normal;
   font-display:swap;
@@ -41,8 +41,8 @@ html {
 @font-face {
   font-family: "Montserrat";
   src: local("Montserrat-Bold"),
-  url("../font/Montserrat-Bold.woff2") format("woff2"),
-  url("../font/Montserrat-Bold.woff") format("woff");
+  url("/Euclid/font/Montserrat-Bold.woff2") format("woff2"),
+  url("/Euclid/font/Montserrat-Bold.woff") format("woff");
   font-weight: 700;
   font-style: normal;
 }
@@ -50,8 +50,8 @@ html {
 @font-face {
   font-family: "Montserrat";
   src: local("Montserrat-Medium"),
-  url("../font/Montserrat-Medium.woff2") format("woff2"),
-  url("../font/Montserrat-Medium.woff") format("woff");
+  url("/Euclid/font/Montserrat-Medium.woff2") format("woff2"),
+  url("/Euclid/font/Montserrat-Medium.woff") format("woff");
   font-weight: 500;
   font-style: normal;
 }
@@ -339,7 +339,7 @@ img {
 
 .slider__content_img {
   border-radius: 32px;
-  background: url("../img/slider.jpg") no-repeat center center / cover;
+  background: url("/Euclid/img/slider.jpg") no-repeat center center / cover;
 
 }
 
@@ -423,7 +423,7 @@ img {
 }
 
 .about-info-left_img {
-  background: url("../img/about-1.jpg") no-repeat center center / cover;
+  background: url("/Euclid/img/about-1.jpg") no-repeat center center / cover;
   border-radius: 32px;
 
 }
@@ -531,11 +531,11 @@ img {
 }
 
 .about-info-right-bottom-img-one {
-  background-image: url("../img/about-2.svg");
+  background-image: url("/Euclid/img/about-2.svg");
 }
 
 .about-info-right-bottom-img-two {
-  background-image: url("../img/about-3.svg");
+  background-image: url("/Euclid/img/about-3.svg");
 }
 
 /* work */
@@ -1004,7 +1004,7 @@ img {
   width: 14px;
   height: 14px;
   border: 1px solid #CACACA;
-  background-image: url("../img/Check.svg");
+  background-image: url("/Euclid/img/Check.svg");
   background-position: center;
   background-size: 70%;
   background-repeat: no-repeat;
