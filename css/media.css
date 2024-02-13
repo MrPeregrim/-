@@ -301,7 +301,7 @@
     min-width: 100%;
     min-height: 350px;
     border-radius: 16px;
-    background-image: url('../img/about-1.jpg');
+    background-image: url('/Euclid/img/about-1.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -331,7 +331,7 @@
     padding-top: 93px;
     background-position: 0px 0px;
     background-size: 106px;
-    background-image: url("../img/about-2\(708\).svg");
+    background-image: url("/Euclid/img/about-2\(708\).svg");
     border: none;
     margin-bottom: 30px
   }
@@ -341,7 +341,7 @@
     padding-top: 93px;
     background-position: 0px 0px;
     background-size: 106px;
-    background-image: url("../img/about-3\(708\).svg");
+    background-image: url("/Euclid/img/about-3\(708\).svg");
     border: none;
   }
 
